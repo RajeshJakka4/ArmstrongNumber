@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sunithanamala
+ *
+ */
+module ArmstrongNumber {
+}
